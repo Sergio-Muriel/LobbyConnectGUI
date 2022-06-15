@@ -3,7 +3,8 @@
 How to create the executable file:
 
 ##  Preview:
-![image](https://user-images.githubusercontent.com/3207785/173777678-e455831e-1cf2-4ea0-9484-b7b358ca31a7.png)
+![image](https://user-images.githubusercontent.com/3207785/173781518-b17c7d93-a980-4af5-a2e4-138e96a29dda.png)
+
 
 
 ## Dependencies:
