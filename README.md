@@ -10,6 +10,7 @@ This is a really simple interface for [Goldberg Emu lobby_connect](https://gitla
 ## Dependencies:
 1. Have [git-bash](https://www.atlassian.com/git/tutorials/git-bash "git-bash") installed
 2. Have [node-js](https://nodejs.org/en/download/ "node-js") installed.
+3. Get the lobby_connect.exe executable file from GoldenBerg Emu.
 
 ## Build:
 1. Open git-bash and clone the repository:
@@ -21,10 +22,12 @@ This is a really simple interface for [Goldberg Emu lobby_connect](https://gitla
 3. Install the dependencies:
 `$ npm install`
 
-4. Run the build:
+4. Copy the lobby_connect.exe file in the root folder of LobbyConnectGUI
+
+5. Run the build:
 `npm run make`
 
-5. Get the result that is in the folder **out/**
+6. Get the result that is in the folder **out/**
 
 ## Add new games:
 To add new games, you should edit the [appIds.js](https://github.com/Sergio-Muriel/LobbyConnectGUI/blob/main/appIds.js) file, and add the corresponding name / id of the game.
