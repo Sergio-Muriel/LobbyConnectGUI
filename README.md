@@ -1,6 +1,6 @@
 # Lobby connect GUI
 
-How to create the executable file:
+This is a really simple interface for [Goldberg Emu lobby_connect](https://gitlab.com/Mr_Goldberg/goldberg_emulator)
 
 ##  Preview:
 ![image](https://user-images.githubusercontent.com/3207785/173781518-b17c7d93-a980-4af5-a2e4-138e96a29dda.png)
