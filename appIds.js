@@ -1,5 +1,5 @@
 let refs = {
-    1245620  : 'Elden ring',
+    1245620  : 'Anygame',
     16777214  : 'Goldenberg/Lobby connect'
   }
 
