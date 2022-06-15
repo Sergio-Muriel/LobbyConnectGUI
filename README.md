@@ -25,3 +25,5 @@ How to create the executable file:
 
 5. Get the result that is in the folder **out/**
 
+## Add new games:
+To add new games, you should edit the appId.js file, and add the corresponding name / id of the game.
