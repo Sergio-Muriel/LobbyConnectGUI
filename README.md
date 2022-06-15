@@ -13,11 +13,15 @@ How to create the executable file:
 ## Build:
 1. Open git-bash and clone the repository:
 `$ git clone https://github.com/Sergio-Muriel/LobbyConnectGUI`
+
 2. Enter the cloned directory:
 `$ cd LobbyConnectGUI`
+
 3. Install the dependencies:
 `$ npm install`
-4 . Run the build:
+
+4. Run the build:
 `npm run make`
+
 5. Get the result that is in the folder **out/**
 
